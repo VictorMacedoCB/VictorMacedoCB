@@ -1,7 +1,8 @@
 <div align="center">
 <h1>Olá 👋, eu sou o Victor Macedo </h1>
-<h3> Estudante de ADS | Apaixonado por tecnologia e performance</h3>
 </div>
+
+<h3> Estudante de ADS | Apaixonado por tecnologia e performance</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-macedo-9a7790367" target="_blank">
