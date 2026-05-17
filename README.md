@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Olá 👋, eu sou o Victor Macedo </h1>
+<h1>Olá 👋, eu sou o Victor Cruz </h1>
 </div>
 
 <h3> Estudante de ADS </h3>
