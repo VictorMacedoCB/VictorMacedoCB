@@ -106,20 +106,6 @@
   envolvidos na construção de sistemas.
 </p>
 
-<br>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=VictorMacedoCB&show_icons=true&theme=tokyonight&hide_border=true"
-    width="400"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMacedoCB&layout=compact&theme=tokyonight&hide_border=true"
-    width="330"
-  />
-</p>
 
 <br>
 
