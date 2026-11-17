@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Olá, eu sou Victor Macedo</h1>
 
 <p align="center">
@@ -5,7 +6,7 @@
 </p>
 
 <p align="center">
-  Interessado em Inteligência Artificial, Machine Learning e Dados.
+  Interessado em Desenvolvimento Backend, APIs REST e Dados.
 </p>
 
 <br>
@@ -15,11 +16,11 @@
 <p align="center">
   Sou estudante de Tecnologia da Informação com foco em desenvolvimento de software.
   <br>
-  Atualmente aprofundando meus conhecimentos em <strong>C# e .NET</strong>,
-  desenvolvimento backend, APIs e bancos de dados.
+  Atualmente aprofundando meus conhecimentos em <strong>Node.js e TypeScript</strong>,
+  desenvolvimento backend, APIs REST e bancos de dados.
   <br><br>
   Também estudo <strong>React</strong>, <strong>PostgreSQL</strong> e conceitos de
-  <strong>Inteligência Artificial e Machine Learning</strong>.
+  <strong>Arquitetura de Software</strong>.
 </p>
 
 <br>
@@ -29,8 +30,9 @@
 <h3 align="center">Backend</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" />
 </p>
 
@@ -39,7 +41,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" />
 </p>
 
@@ -48,7 +49,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" />
 </p>
 
@@ -60,21 +61,21 @@
   <img src="https://img.shields.io/badge/Backend-512BD4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Banco%20de%20Dados-336791?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inteligência%20Artificial-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arquitetura%20de%20Software-2563EB?style=for-the-badge" />
 </p>
 
 <br>
 
 <h2 align="center">🔨 Projeto em destaque</h2>
 
-<h3 align="center">🤖 ProfAssistenc IA</h3>
+<h3 align="center">💰 Controle de Despesas API</h3>
 
 <p align="center">
-  Assistente de planejamento docente utilizando Inteligência Artificial.
+  API REST para gerenciamento de despesas pessoais, desenvolvida com Node.js,
+  TypeScript e PostgreSQL.
   <br>
-  Projeto desenvolvido para praticar frontend, backend, APIs,
-  integração com IA e banco de dados.
+  Projeto desenvolvido para praticar desenvolvimento backend, operações CRUD,
+  arquitetura em camadas, integração com banco de dados e validação de dados.
 </p>
 
 <br>
@@ -82,14 +83,15 @@
 <h2 align="center">📚 Atualmente estudando</h2>
 
 <p align="center">
-  <strong>C#/.NET</strong> •
-  <strong>Backend</strong> •
+  <strong>Node.js</strong> •
+  <strong>TypeScript</strong> •
+  <strong>Express</strong> •
   <strong>APIs REST</strong> •
   <strong>PostgreSQL</strong> •
+  <strong>Docker</strong> •
+  <strong>Zod</strong> •
   <strong>React</strong> •
-  <strong>Arquitetura de Software</strong> •
-  <strong>IA</strong> •
-  <strong>Machine Learning</strong>
+  <strong>Arquitetura de Software</strong>
 </p>
 
 <br>
@@ -99,7 +101,7 @@
 <p align="center">
   Construir uma base sólida em desenvolvimento de software e evoluir
   progressivamente em Backend, Arquitetura de Software,
-  Inteligência Artificial, Dados e Machine Learning.
+  desenvolvimento Frontend e Dados.
   <br><br>
   Meu objetivo é aprender através de projetos práticos, entendendo não
   apenas como utilizar uma tecnologia, mas também os conceitos e decisões
